@@ -1,0 +1,9 @@
+{
+  "name": "Tic-Tac-Toe",
+  "short_name": "Tic-Tac-Toe",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#070b14",
+  "theme_color": "#0f172a",
+  "description": "A free browser Tic-Tac-Toe game."
+}
